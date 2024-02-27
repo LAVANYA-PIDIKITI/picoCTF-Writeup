@@ -8,5 +8,19 @@ The challenges consist of 5 Rounds, each requiring SQL injections to move to the
 Round 1: <br>
 Username = admin' -- <br>
 Password = foo <br>
-
-Round 2:
+<br>
+Round 2: <br>
+Username = <br>
+Password = <br>
+<br>
+Round 3: <br>
+Username = <br>
+Password = <br>
+<br>
+Round 4: <br>
+Username = <br>
+Password = <br>
+<br>
+Round 5: <br>
+Username = <br>
+Password = <br>
