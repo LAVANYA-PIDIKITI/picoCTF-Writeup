@@ -5,7 +5,7 @@ DESCRIPTION: Can you beat the filters? Log in as admin http://jupiter.challenges
 # Solution
 The challenges consist of 5 Rounds, each requiring SQL injections to move to the next round.
 
-Round 1:
+Round 1: <br>
 Username = admin' -- <br>
 Password = foo <br>
 
