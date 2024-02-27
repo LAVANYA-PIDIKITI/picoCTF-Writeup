@@ -33,6 +33,6 @@ Round 5: <br>
 Filter : `or and = like > < -- union admin`<br>
 Username = `ad'||'min;`<br>
 Password = `foo`<br>
-Query : `SELECT * FROM users WHERE username='ad'||'min';' AND password='123'`<br>
+Query : `SELECT * FROM users WHERE username='ad'||'min';' AND password='foo'`<br>
 
 FLAG will be present in `filter.php` at the end of 5 rounds
