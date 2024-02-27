@@ -1,5 +1,5 @@
 # Web Gauntlet 2
-AUTHOR : MADSTACKS
+AUTHOR : MADSTACKS <br>
 DESCRIPTION : This website looks familiar... Log in as admin Site: <br>
 http://mercury.picoctf.net:65261/ <br>
 Filter: http://mercury.picoctf.net:65261/filter.php <br>
